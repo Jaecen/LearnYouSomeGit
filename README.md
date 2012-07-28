@@ -1,4 +1,3 @@
 LearnYouSomeGit
 ===============
-
-A repro for experimentation and foolishness
+Learn it. Now! For great justice!
